@@ -1,0 +1,11 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Get in contact"
+content: |
+  To reach out, please use the email below to get in contact with Tadeusz Lewandowski, who is the Industry Code Collaboration Product Lead 
+  in Roche Pharma Development Data Sciences, based in Basel. tadeusz.lewandowski@roche.com
+
+button: 
+  label: "email"
+  link: "mailto: tadeusz.lewandowski@roche.com"
+image: "images/image3.png"

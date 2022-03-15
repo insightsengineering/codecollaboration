@@ -1,0 +1,13 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Open source code collaboration for regulatory reporting"
+subtitle: |
+  A very short introduction to efforts we are taken to openly and collaboratively work on packages and libraries to improve late stage drug development 
+  at Roche.
+content : |
+   The content of this site represents a summary of activity we are involved in a public setting, primarily around the co-creation of R packages. 
+button:
+  label : "Read more"
+  link : "#first"
+image : "images/image1.png"
+

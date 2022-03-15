@@ -1,0 +1,31 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "Roche PDD Code Collaboration"
+theme = "hugo-story"
+
+
+## -----------------------------------------------
+## Hugo Built-in Features
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# googleAnalytics = "your-google-analytics-id"
+
+
+## -----------------------------------------------
+## Site Parameters
+## -----------------------------------------------
+
+[Params]
+  description = "A public summary of our public code collaboration efforts in Pharma Development Data Sciences (late stage) at Roche"
+  logo = "images/banner.jpg"
+  favicon = true
+
+[Params.social]
+  github = "https://github.com/genentech/"
+  twitter = "https://twitter.com/genentech"
+  email = "tadeusz.lewandowski@roche.com"
+  instagram = ""
+  linkedin = "https://www.linkedin.com/groups/9126149/"
