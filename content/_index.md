@@ -20,7 +20,12 @@ At Roche we are in the process of deploying a full R based GxP compliant Regulat
 - Open sourced RNA-seq analysis R-package hermes. Available at Bioconductor. ([LinkedIn post with more information](https://www.linkedin.com/pulse/nest-presentation-biodata-world-daniel-saban%25C3%25A9s-bov%25C3%25A9/?trackingId=Pe3tP4k3XzZ0GwPQmCGHhw%3D%3D))
 - [staged.dependencies](https://openpharma.github.io/staged.dependencies/) simplifies the development process for developing a set of interdependent R packages. Released as open source.
 
-## Open source external talks with Roche speakers
+## Talks about open sourced projects
+
+* `Admiral | Roche, GSK, J&J` [Introducing {admiral}—The ADaM in R Asset Library | Thomas Nietmann, R/Pharma 2021](https://www.youtube.com/watch?v=N7Bw8c3D5fU)
+* `visR | Roche, Novartis, J&J` [visR - a package for effective visualization in Pharma](https://youtu.be/JxvPBp2OhgA)
+
+## Open source external talks with Roche speakers## Open source external talks with Roche speakers
 
 * [Phuse CSS panel on Open Source in Clinical Data Science | James Black, PHUSE Computational Science Symposium 2021)](https://www.youtube.com/watch?v=cBSzQ4270F8/)
 * [R/Pharma short talk on prioritising what R code to open source, and what notes on license choice helping collaboration discussions | James Black, R/Pharma 2021](https://rinpharma.com/publication/rinpharma_226/)
