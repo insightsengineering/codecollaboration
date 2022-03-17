@@ -6,12 +6,11 @@ We anticipate that Vendors, CROs and Academia will also play important roles in 
 
 At Roche we are in the process of deploying a full R based GxP compliant Regulatory Reporting pipeline using collaboratively built components. Our long term vision is to use [containers](https://www.docker.com/resources/what-container) ([or other means](https://rconsortium.github.io/submissions-wg/pilot-overall.html)) to deliver interactive visualizations to give a vastly enhanced user experience for Health Authorities in their review. We expect that [Accumulus](https://www.accumulus.org/) will pave the way to achieve this globally and also anticipate that helpful changes will be implemented in the US by FDA’s New [Office of Digital Transformation](https://www.fda.gov/news-events/press-announcements/fda-advances-data-it-modernization-efforts-new-office-digital-transformation). The motivation behind all of this is to benefit the patients we aspire to help.
 
-## Open sourced code collaborations Roche is engaged in
+## Open sourced clinical reporting code collaborations
 
 - [rtables](https://cran.r-project.org/web/packages/rtables/index.html) - an open sourced package offering groundbreaking table creation. 
-- [Many more rtables examples](https://waddella.github.io/RStudioTableContest2020/A_Not_So_Short_Introduction_to_rtables.html). R in Pharma 2021 keynote featuring rtables: [recording](https://www.youtube.com/watch?v=LwP21KMV3MA&list=PLMtxz1fUYA5A_U0s5DQB9gwZDODNATsed&index=2), [slides](https://github.com/rich-iannone/presentations/commit/8642fd3f47ff433df8f14ae0f8a1441a76f9a3c8) (requires Apple Keynote to open)
     - rtables package enables creation of queryable output objects allowing the user to access all table content. Our intention is to [generate structured GxP relevant content](https://www.pharmexec.com/view/optimizing-pharma-content-for-faster-product-submissions) (for example parts of CSR body text) in an automated fashion using this functionality.
-- respectables and synthetic.cdisc.data - open sourced packages to generate random CDISC data. Introduction video.
+- respectables and synthetic.cdisc.data - open sourced packages to generate random CDISC data. 
 - admiral - an open collaboration between Roche and GSK to derive ADaMs. 18 other pharma companies & CROs testing. Introduction video.
 - NEST - a full exploratory/regulatory visualization and reporting suite. Collaboration is currently being formed.
     - NEST is fully modular allowing user to efficiently create flexible visualizations of data and also generate reproducible R source code with one click. NEST MMRM presentation (slides) NEW! Example apps: [Efficacy](https://genentech.shinyapps.io/teal_efficacy/) - [Safety](https://genentech.shinyapps.io/teal_safety/) - [Exploratory](https://genentech.shinyapps.io/teal_exploratory/) - (these apps are a small subset of available content)
@@ -20,12 +19,13 @@ At Roche we are in the process of deploying a full R based GxP compliant Regulat
 - Open sourced RNA-seq analysis R-package hermes. Available at Bioconductor. ([LinkedIn post with more information](https://www.linkedin.com/pulse/nest-presentation-biodata-world-daniel-saban%25C3%25A9s-bov%25C3%25A9/?trackingId=Pe3tP4k3XzZ0GwPQmCGHhw%3D%3D))
 - [staged.dependencies](https://openpharma.github.io/staged.dependencies/) simplifies the development process for developing a set of interdependent R packages. Released as open source.
 
-## Talks about open sourced projects
+## Talks about specific open sourced clinical reporting projects
 
 * `Admiral | Roche, GSK, J&J` [Introducing {admiral}—The ADaM in R Asset Library | Thomas Nietmann, R/Pharma 2021](https://www.youtube.com/watch?v=N7Bw8c3D5fU)
-* `visR | Roche, Novartis, J&J` [visR - a package for effective visualization in Pharma](https://youtu.be/JxvPBp2OhgA)
+* `rtables and tgen | Roche, Rstudio` [The gt Package: Past, Present, and Future | R/Pharma 2021](https://www.youtube.com/watch?v=LwP21KMV3MA)
+* `visR | Roche, Novartis, J&J` [visR - a package for effective visualization in Pharma | R/Pharma 2020](https://youtu.be/JxvPBp2OhgA)
 
-## Talks about open source or code collaboration
+## General about open source or code collaboration in clinical reporting
 
 * [Phuse CSS panel on Open Source in Clinical Data Science | James Black, PHUSE Computational Science Symposium 2021)](https://www.youtube.com/watch?v=cBSzQ4270F8/)
 * [R/Pharma short talk on prioritising what R code to open source, and what notes on license choice helping collaboration discussions | James Black, R/Pharma 2021](https://rinpharma.com/publication/rinpharma_226/)
