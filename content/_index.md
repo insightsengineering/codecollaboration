@@ -18,6 +18,7 @@ At Roche we are in the process of deploying a full R based GxP compliant Regulat
     - Early presentation from 2019 of this toolkit at RStudio webinar [Part 3: Analyzing Clinical Trials Data using R for Decision Making and Regulatory Submissions](https://www.rstudio.com/resources/webinars/the-role-of-r-in-drug-discovery-research-and-development/) (part 3 starts at 25 minutes)
 - Open sourced RNA-seq analysis R-package hermes. Available at Bioconductor. ([LinkedIn post with more information](https://www.linkedin.com/pulse/nest-presentation-biodata-world-daniel-saban%25C3%25A9s-bov%25C3%25A9/?trackingId=Pe3tP4k3XzZ0GwPQmCGHhw%3D%3D))
 - [staged.dependencies](https://openpharma.github.io/staged.dependencies/) simplifies the development process for developing a set of interdependent R packages. Released as open source.
+- The goal of [visR](openpharma.github.io/visr/) visR is to enable fit-for-purpose, reusable clinical and medical research focused visualizations and tables with sensible defaults and based on sound graphical principles. visR is a collaboration between Roche, Novartis, J&J and others.
 
 ## Talks about specific open sourced clinical reporting projects
 
