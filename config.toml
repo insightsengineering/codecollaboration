@@ -20,7 +20,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 [Params]
   description = "A public summary of our public code collaboration efforts in Pharma Development Data Sciences (late stage) at Roche"
-  logo = "images/banner.jpg"
+  logo = "images/logo.png"
   favicon = true
 
 [Params.social]
