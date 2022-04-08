@@ -4,7 +4,7 @@
 
 title = "Roche PDD Code Collaboration"
 theme = "hugo-story"
-baseurl = "https://insightsengineering.github.io/codecollaboration/"
+baseurl = "http://codecollaboration.org/"
 
 ## -----------------------------------------------
 ## Hugo Built-in Features
