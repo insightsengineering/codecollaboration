@@ -7,12 +7,10 @@ sections:
 - type: document
   path: content/english/about.md
   label: About us
-  match: "**/*"
 - type: document
   path: content/english/opensource.md
   label: Open Source
-  match: "**/*"
-upload_dir: config/_default/static/uploads
+upload_dir: config/_default/static/forestory-uploads
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
