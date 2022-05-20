@@ -5,9 +5,14 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/english/author
+  label: Authors
+  create: all
+  match: "**/*"
+- type: directory
   path: content/english/post
   label: Posts
-  create: all
+  create: documents
   match: "**/*"
 - type: document
   path: content/english/about.md
