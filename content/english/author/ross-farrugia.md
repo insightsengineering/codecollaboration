@@ -1,6 +1,6 @@
 ---
 title: "Ross Farrugia"
-image: "images/author-ross.jpg"
+image: "images/author.jpg"
 email: "ross.farrugia@roche.com"
 social:
   - icon : "fab fa-linkedin" # themify icon pack : https://themify.me/themify-icons
