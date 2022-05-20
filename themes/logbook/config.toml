@@ -1,0 +1,74 @@
+# This file is for render site varibles and plugins
+# don't remove this file.
+# The presence of this file is for compatibility with Blogdown and Forestry.
+#
+# The actual configuration files are stored in the `config/_default/` folder.
+
+
+######################### site variables ##############################
+# customize your color and font from here.
+[params.variables]
+color_primary = "#ce8460"
+body_color = "#fff"
+text_color = "#696c6d"
+text_color_dark = "#1c1d1f"
+text_color_light = "#888c8e"
+border_color = "#ddd"
+black = "#000"
+white = "#fff"
+light = "#f0f0f0"
+
+# font variables
+# base font size for full website, 
+font_size = "16px" # default is 16px
+
+# Font Scale Sizes
+# "minorSecond": 1.067,
+# "majorSecond": 1.125,
+# "minorThird": 1.2,
+# "majorThird": 1.25,
+# "perfectFourth": 1.333,
+# "augmentedFourth": 1.414,
+# "perfectFifth": 1.5,
+# "goldenRatio": 1.618
+font_scale = "1.2" # default is "minorThird": 1.2
+
+# go to https://fonts.google.com/ to find the font you want to use. select your font and copy only the bold part from the URL. and paste it here.
+
+# example: "Open Sans:wght@400;500;600"
+font_primary = "Open Sans:wght@400"
+font_primary_type = "sans-serif" # [serif/sans-serif]
+font_secondary = "Montserrat:wght@400"
+font_secondary_type = "sans-serif" # [serif/sans-serif]
+icon_font = "Font Awesome 5 Free"
+
+
+############################# Plugins ##############################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/font-awesome/fontawesome.min.css"
+[[params.plugins.css]]
+link = "plugins/font-awesome/brands.css"
+[[params.plugins.css]]
+link = "plugins/font-awesome/solid.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+[[params.plugins.js]]
+link = "plugins/webfont-loader/webfont-loader-2.min.js"

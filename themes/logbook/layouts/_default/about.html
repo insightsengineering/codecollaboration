@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="title-bordered mb-5 d-flex align-items-center">
+          <h1 class="h4">{{ .Title }}</h1>
+          <ul class="list-inline social-icons ml-auto mr-3 d-none d-sm-block">
+            {{ range .Params.social }}
+            <li class="list-inline-item"><a href="{{ .link }}"><i class="{{.icon }}"></i></a></li>
+            {{ end }}
+          </ul>
+        </div>
+        
+        {{with .Params.Image}}
+        {{ if (fileExists (add `assets/` .)) }}
+        {{ $image:= resources.Get . }}
+        {{ $imageFallback:= $image.Resize "1110x" }}
+        {{ $imageXL:= $image.Resize "1110x webp" }}
+        {{ $imageLG:= $image.Resize "650x webp" }}
+        {{ $imageMD:= $image.Resize "600x webp" }}
+        {{ $imageSM:= $image.Resize "545x webp" }}
+        <picture>
+          <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
+          <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
+          <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 991px)">
+          <source srcset="{{ $imageXL.RelPermalink }}" media="(max-width: 1200px)">
+          <source srcset="{{$imageXL.RelPermalink}}">
+          <img loading="lazy" class="img-fluid w-100 mb-4 rounded-lg" src="{{$imageXL.RelPermalink}}" alt="author" width="{{$image.Width}}" height="{{$image.Height}}">
+        </picture>
+        {{ else }}
+        <img loading="lazy" class="img-fluid w-100 mb-4 rounded-lg" src="{{ $imageFallback.RelPermalink }}" alt="author" width="{{$image.Width}}" height="{{$image.Height}}">
+        {{ end }}
+        {{ end }}
+
+        <div class="content">
+          {{.Content}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

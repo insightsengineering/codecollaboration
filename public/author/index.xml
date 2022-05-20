@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Data Science Accelerated: Open source code collaboration for regulatory reporting</title>
+    <link>https://demo.gethugothemes.com/logbook/author/</link>
+    <description>Recent content in Authors on Data Science Accelerated: Open source code collaboration for regulatory reporting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This theme was licensed from [Themefisher](https://themefisher.com/), and the site is hosted on github and built with Hugo.</copyright><atom:link href="https://demo.gethugothemes.com/logbook/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>James Black</title>
+      <link>https://demo.gethugothemes.com/logbook/author/james-black/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/logbook/author/james-black/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
+    </item>
+    
+    <item>
+      <title>Ross Farrugia</title>
+      <link>https://demo.gethugothemes.com/logbook/author/ross-farrugia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/logbook/author/ross-farrugia/</guid>
+      <description>Ross is Data Engineering product family leader.</description>
+    </item>
+    
+  </channel>
+</rss>
