@@ -57,8 +57,8 @@ button_link = "https://themefisher.com/"
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
 keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"]
-description = "This is meta description"
-author = "Themefisher"
+description = "Data Science Accelerated: Open source code collaboration for regulatory reporting"
+author = "Roche"
 image = "images/favicon.png" # this image will be used as fallback if a page has no image of its own
 
 # matomo tracking: see https://matomo.org/
