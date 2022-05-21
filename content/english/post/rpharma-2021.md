@@ -9,7 +9,7 @@ author: "James Black"
 # description
 description: "This is meta description"
 # Taxonomies
-categories: ["conference-review"]
+categories: ["opensource"]
 tags: ["R/Pharma","collaboration","conference","opensource"]
 type: "featured" # available type (regular or featured)
 draft: false
