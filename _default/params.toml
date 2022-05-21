@@ -11,7 +11,7 @@ page_not_found_image = "images/404.png" # 404 error page image
 # image gallery shortcode
 image_gallery = true
 # email address
-email = "georgia.young@example.com"
+email = "james.black.jb2@roche.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # search

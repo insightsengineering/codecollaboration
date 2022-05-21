@@ -1,6 +1,6 @@
 ---
 title: "Elements That You Can Use To Create A New Post On This Template."
-date: 2020-03-15T15:40:24+06:00
+date: 2020-03-01T15:40:24+06:00
 # post thumb
 images:
   - "images/post/post-6.jpg"
@@ -14,7 +14,7 @@ description: "This is meta description"
 categories: ["photography"]
 tags: ["photo","image"]
 type: "regular" # available type (regular or featured)
-draft: false
+draft: true
 ---
 
 
