@@ -1,6 +1,6 @@
 ---
 title: Ross Farrugia
-image: "/uploads/ross.png"
+image: "images/authors/ross.png"
 email: ross.farrugia@roche.com
 social:
 - icon: fab fa-linkedin
