@@ -1,6 +1,6 @@
 ---
 title: "Hi, we are DSX"
-image: "images/author-full.jpg"
+image: "images/peepsdna.png"
 email: "james.black.jb2@roche.com"
 # description
 description: "This is meta description"

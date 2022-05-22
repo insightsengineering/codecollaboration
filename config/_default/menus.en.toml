@@ -1,7 +1,7 @@
 ############### English navigation ################
 
 [[main]]
-name = "Open Source"
+name = "Why Open Source?"
 url = "opensource"
 weight = 1
 
