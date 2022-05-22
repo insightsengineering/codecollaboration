@@ -23,4 +23,4 @@ We are key enablers of PD Data Sciences @ Roche's impact by revolutionizing the 
 
 #### Disclaimer
 
-This website contains no novel information released into the public domain. Please refer to the source material for any disclaimers, or comments on contribution and re-use.
+This website contains no novel information that has not already been released into the public domain. Please refer to the source material for any disclaimers, or comments on contribution and re-use.
