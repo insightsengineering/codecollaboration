@@ -26,6 +26,8 @@ We are key enablers of PD Data Sciences @ Roche's impact by revolutionizing the 
 - Ross Farrugia, Leads Data Engineering, sponsoring projects involved in the transformation of case report form data into robust, traceable, analysis ready and regulatory requirement conformant data. 
 - Juha-Pekka Perttola, a senior leader in our Analytical Data Science community, with deep connections across Pharma into statistical programming workflows and the adoption of each new generation of tools to make the path to insights more efficient.
 
+Check out the contact form to get in touch.
+
 #### Disclaimer
 
 This website contains no novel information released into the public domain. Please refer to the source material for any disclaimers, or comments on contribution and re-use.
