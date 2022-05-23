@@ -22,7 +22,7 @@ We are key enablers of PD Data Sciences @ Roche's impact by revolutionizing the 
 
 #### Key people
 
-- James Black, Leads Insights Engineering Lead, sponsoring projects across our insight codebase across RWD and clinical trials with the aim of making the path from data to insights streamlined.
+- James Black, Leads Insights Engineering, sponsoring projects across our insight codebase across RWD and clinical trials with the aim of making the path from data to insights streamlined.
 - Ross Farrugia, Leads Data Engineering, sponsoring projects involved in the transformation of case report form data into robust, traceable, analysis ready and regulatory requirement conformant data. 
 - Juha-Pekka Perttola, a senior leader in our Analytical Data Science community, with deep connections across Pharma into statistical programming workflows and the adoption of each new generation of tools to make the path to insights more efficient.
 
