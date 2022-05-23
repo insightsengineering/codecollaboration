@@ -9,7 +9,7 @@ summaryLength = "50"
 # google analytics
 googleAnalytics = "" # Ex: UA-123-45
 # disqus short name
-disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
+disqusShortname = "codecollaboration" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = ['Fr'] # desable language from here 
 
